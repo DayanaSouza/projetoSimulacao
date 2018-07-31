@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/dayana/Downloads/simjava-1.2"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/OSGi%Minimum-1.2"/>
+	<classpathentry kind="lib" path="/home/dayana/Downloads/simjava2/jars/simjava.jar"/>
+	<classpathentry kind="lib" path="/home/dayana/Downloads/simjava2/jars/SJGV.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
